@@ -1,0 +1,12 @@
+heroku_mail_id = "xxx@yyy.com"
+heroku_api_key = "xxxxxxxx-yyyy-xxxx-yyyy-xxxxxxxxxxxx"
+heroku_pipeline_name = "heroku-app"
+heroku_dev_app_name = "heroku-app-dev"
+heroku_dev_app_region = "us"
+heroku_stage_app_name = "heroku-app-stage"
+heroku_stage_app_region = "us"
+heroku_prod_app_name = "heroku-app"
+heroku_prod_app_region = "us"
+heroku_app_buildpacks = [
+    "heroku/python"
+]
